@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Follow-Me", "..\..\Follow-Me-2014-04-14\Follow-Me\Follow-Me\Follow-Me.vcxproj", "{0DA288E0-59F8-443A-A8A8-62FF076DBF5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DA288E0-59F8-443A-A8A8-62FF076DBF5C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0DA288E0-59F8-443A-A8A8-62FF076DBF5C}.Debug|Win32.Build.0 = Debug|Win32
+		{0DA288E0-59F8-443A-A8A8-62FF076DBF5C}.Release|Win32.ActiveCfg = Release|Win32
+		{0DA288E0-59F8-443A-A8A8-62FF076DBF5C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
